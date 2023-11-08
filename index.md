@@ -9,3 +9,27 @@ Happening At Manoa is an application for members of the UH Manoa community to se
 Here are what we envision our final product to look like at the end of Project Milestone 1.
 
 ### Landing Page
+
+![Landing Page Mockup](./assets/Mockup_LandingPage.png)
+
+Features of the Landing Page
+- Navigation Bar
+- Search Bar
+- Category Carousel
+- Venue Carousel
+- Featured Events
+- Footer
+
+### Event Page
+
+![Post an Event Page Mockup](./assets/Mockup_EventPost.png)
+
+Features of the Post an Event Page
+- Navigation Bar
+- User form to request to post an event
+  - Attributes to help categorize the event
+  - Image upload for thumbnails and supporting images
+  - Description of the event
+  - Request for submission
+- Footer
+
