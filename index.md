@@ -14,7 +14,7 @@ Happening At Manoa is an application for members of the UH Manoa community to se
 
 ## Application Mockup
 
-Here are what we envision our final product to look like at the end of Project Milestone 1.
+Here are what we envision our final product to be at the end of Project Milestone 1.
 
 ### Landing Page
 
