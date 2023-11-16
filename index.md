@@ -12,6 +12,10 @@ Happening At Manoa is an application for members of the UH Manoa community to se
 - Raven Quiddaoen
 - Leah Yanagisawa
 
+## Our Github
+
+View our organization on Github [here](https://github.com/happeningatmanoa).
+
 ## Team Contract
 
 Our team's code of conduct can be found in the [Team Contract](https://docs.google.com/document/d/1G973eUKhsXuxS8ETUO21Ykb6mgbJwUbbN-DVYe3XoCo/edit?usp=sharing).
