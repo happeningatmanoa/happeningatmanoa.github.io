@@ -26,7 +26,7 @@ Here are what we envision our final product to be.
 
 ### Landing Page
 
-![Landing Page Mockup](./assets/Mockup_LandingPage.png)
+<img width="300" src="./assets/Mockup_LandingPage.png" alt="Landing Page Mockup">
 
 Features of the Landing Page
 - Navigation Bar
@@ -38,7 +38,7 @@ Features of the Landing Page
 
 ### Calendar Page
 
-![Calendar Page Mockup](./assets/calendar-page.png)
+<img width="300" src="./assets/calendar-page.png" alt="Calendar Page Mockup">
 
 Features of the Calendar Page
 - Calendar showing a month at a time
@@ -47,7 +47,7 @@ Features of the Calendar Page
 
 ### Event Page
 
-![Post an Event Page Mockup](./assets/Mockup_EventPost.png)
+<img width="300" src="./assets/Mockup_EventPost.png" alt="Event Page Mockup">
 
 Features of the Post an Event Page
 - Navigation Bar
@@ -60,7 +60,7 @@ Features of the Post an Event Page
 
 ### MyEvents Page
 
-![MyEvents Page Mockup](./assets/myevents-page.png)
+<img width="300" src="./assets/myevents-page.png" alt="MyEvents Page Mockup">
 
 Features of the MyEvents Page
 - View user's upcoming events
@@ -68,7 +68,7 @@ Features of the MyEvents Page
 
 ### Profile Page
 
-![Profile Page Mockup](./assets/Mockup_MyProfile.png)
+<img width="300" src="./assets/Mockup_MyProfile.png" alt="Profile Page Mockup">
 
 Features of the Profile Page
 - View user profile
@@ -76,7 +76,7 @@ Features of the Profile Page
 
 ### Search Page
 
-![Search Page Mockup](./assets/searchpage.PNG)
+<img width="300" src="./assets/searchpage.PNG" alt="Search Page Mockup">
 
 Features of the Search Page
 - Search for events by keyword
