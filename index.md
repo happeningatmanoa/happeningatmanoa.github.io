@@ -87,14 +87,42 @@ Features of the Search Page
 
 A link to our running application is [here](http://137.184.104.184/).
 
-![App as of M1](./assets/M1-app-update.png)
+## User Interface Walkthrough
 
-### The State of our Application
+### Landing Page
 
-Happening At Manoa should currently have a working landing page. Most components in the navbar do work, but not all pages they lead to are done. Login is functional.
+Anyone visiting the site should have access to the landing page. It should show the application name on the top right, navbar on the top, filters to search for events in the header, and two carousels showing images of upcoming events.
+
+<img src="./assets/user-guide/landing-real-m2.png" alt="Landing Page M2">
+
+### Search Page
+
+Anyone visiting the site can also search through the events in the database through the search page. They have the option of searching by category or location location, or by typing in search terms.
+
+<img src="./assets/user-guide/search-real-m2.png" alt="Search Page">
+
+### MyEvents Page
+
+When a user signs up or logs in, they can click on the "MyEvents" link in the navbar and be taken to a list of events they have signed up for notifications for. This includes upcoming events as well as past events.
+
+<img src="./assets/user-guide/myevents-real-m2.png" alt="MyEvents Page M2">
+
+### Contact Us Page
+
+Users can contact us through this page. Each of our names redirects to opening an email with our respective hawaii.edu email address. Users who are event organizers can contact us to request a higher level of permissions to create and post events.
+
+<img src="./assets/user-guide/contact-real-m2.png" alt="Contact Us Page">
+
+### About Us Page
+
+Anyone using the application can view this page to see the members behind the creation of this application. An overview of our goal is at the top and a collection of our pictures are below.
+
+<img src="./assets/user-guide/about-real-m2.png" alt="About Us Page">
 
 ## Project Milestones
 
 [Project Milestone 1](https://github.com/orgs/happeningatmanoa/projects/4)
 
 [Project Milestone 2](https://github.com/orgs/happeningatmanoa/projects/2)
+
+[Project Milestone 3](https://github.com/orgs/happeningatmanoa/projects/7)
