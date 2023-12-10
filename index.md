@@ -1,5 +1,17 @@
 # Happening At Manoa
 
+## Table of Contents
+
+- [Overview](#overview)
+- [The Team](#the-team)
+- [Our Github](#our-github)
+- [Developer Guide](#developer-installation-guide)
+- [Team Contract](#team-contract)
+- [Deployment](#deployment)
+- [User Walkthrough](#user-interface-walkthrough)
+- [Project Milestones](#project-milestones)
+- [Application Mockup](#application-mockup)
+
 ## Overview
 
 Happening At Manoa is an application for members of the UH Manoa community to see what events are going on in their community as well as search for events that aligns with their interests. Our goal is to help build connectivity within the UH Manoa community with an application that will make knowing about and attending events more convenient.
@@ -20,76 +32,15 @@ View our organization on Github [here](https://github.com/happeningatmanoa).
 
 Installation guide is currently located at the bottom-most subsection of this page for readability's sake.
 
+[Jump to Developer Installation Guide](#developer-installation-guide-cont)
+
 ## Team Contract
 
 Our team's code of conduct can be found in the [Team Contract](https://docs.google.com/document/d/1G973eUKhsXuxS8ETUO21Ykb6mgbJwUbbN-DVYe3XoCo/edit?usp=sharing).
 
-## Application Mockup
-
-Here are what we envision our final product to be.
-
-### Landing Page
-
-<img width="300" src="./assets/Mockup_LandingPage.png" alt="Landing Page Mockup">
-
-Features of the Landing Page
-- Navigation Bar
-- Search Bar
-- Category Carousel
-- Venue Carousel
-- Featured Events
-- Footer
-
-### Calendar Page
-
-<img width="300" src="./assets/calendar-page.png" alt="Calendar Page Mockup">
-
-Features of the Calendar Page
-- Calendar showing a month at a time
-- Events for that month
-- Ability to view events on specific days
-
-### Event Page
-
-<img width="300" src="./assets/Mockup_EventPost.png" alt="Event Page Mockup">
-
-Features of the Post an Event Page
-- Navigation Bar
-- User form to request to post an event
-  - Attributes to help categorize the event
-  - Image upload for thumbnails and supporting images
-  - Description of the event
-  - Request for submission
-- Footer
-
-### MyEvents Page
-
-<img width="300" src="./assets/myevents-page.png" alt="MyEvents Page Mockup">
-
-Features of the MyEvents Page
-- View user's upcoming events
-- View user's past attended events
-
-### Profile Page
-
-<img width="300" src="./assets/Mockup_MyProfile.png" alt="Profile Page Mockup">
-
-Features of the Profile Page
-- View user profile
-- Edit user profile
-
-### Search Page
-
-<img width="300" src="./assets/searchpage.PNG" alt="Search Page Mockup">
-
-Features of the Search Page
-- Search for events by keyword
-- Search for events by category
-- Search for events by location
-
 ## Deployment
 
-A link to our running application is [here](http://137.184.104.184/).
+Our running application is [here](http://146.190.59.2/).
 
 ## User Interface Walkthrough
 
@@ -125,11 +76,76 @@ Anyone using the application can view this page to see the members behind the cr
 
 ## Project Milestones
 
+Here were our goals throughout this project, separated into Milestones. They can also be found on our organization's Github.
+
 [Project Milestone 1](https://github.com/orgs/happeningatmanoa/projects/4)
 
 [Project Milestone 2](https://github.com/orgs/happeningatmanoa/projects/2)
 
 [Project Milestone 3](https://github.com/orgs/happeningatmanoa/projects/7)
+
+## Application Mockup
+
+At the start of this project, we had made a handful of mockups to better envision the end goal of our project. Here's what some of them look like.
+
+### Landing Page
+
+<img width="300" src="./assets/Mockup_LandingPage.png" alt="Landing Page Mockup">
+
+Features of the Landing Page
+- Navigation Bar
+- Search Bar
+- Category Carousel
+- Venue Carousel
+- Featured Events
+- Footer
+
+### Calendar Page
+
+<img width="300" src="./assets/calendar-page.png" alt="Calendar Page Mockup">
+
+Features of the Calendar Page
+- Calendar showing a month at a time
+- Events for that month
+- Ability to view events on specific days
+
+### Event Page
+
+<img width="300" src="./assets/Mockup_EventPost.png" alt="Event Page Mockup">
+
+Features of the Post an Event Page
+- Navigation Bar
+- User form to request to post an event
+    - Attributes to help categorize the event
+    - Image upload for thumbnails and supporting images
+    - Description of the event
+    - Request for submission
+- Footer
+
+### MyEvents Page
+
+<img width="300" src="./assets/myevents-page.png" alt="MyEvents Page Mockup">
+
+Features of the MyEvents Page
+- View user's upcoming events
+- View user's past attended events
+
+### Profile Page
+
+<img width="300" src="./assets/Mockup_MyProfile.png" alt="Profile Page Mockup">
+
+Features of the Profile Page
+- View user profile
+- Edit user profile
+
+### Search Page
+
+<img width="300" src="./assets/searchpage.PNG" alt="Search Page Mockup">
+
+Features of the Search Page
+- Search for events by keyword
+- Search for events by category
+- Search for events by location
 
 ## Developer Installation Guide (Cont.)
 
