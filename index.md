@@ -40,7 +40,7 @@ Our team's code of conduct can be found in the [Team Contract](https://docs.goog
 
 ## Deployment
 
-Our running application is [here](http://146.190.59.2/).
+Our running application is [here](http://134.209.160.180/). It is currently not working.
 
 ## User Interface Walkthrough
 
