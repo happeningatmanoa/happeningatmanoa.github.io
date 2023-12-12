@@ -54,7 +54,7 @@ Anyone visiting the site should have access to the landing page. It should show 
 
 Anyone visiting the site can also search through the events in the database through the search page. They have the option of searching by category or location location, or by typing in search terms.
 
-<img src="./assets/user-guide/search-real-m2.png" alt="Search Page">
+<img src="./assets/user-guide/search-final.png" alt="Search Page">
 
 ### MyEvents Page
 
