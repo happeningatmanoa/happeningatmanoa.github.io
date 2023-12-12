@@ -48,7 +48,7 @@ Our running application is [here](http://146.190.59.2/).
 
 Anyone visiting the site should have access to the landing page. It should show the application name on the top right, navbar on the top, filters to search for events in the header, and two carousels showing images of upcoming events.
 
-<img src="./assets/user-guide/landing-real-m2.png" alt="Landing Page M2">
+<img src="./assets/user-guide/landing-final-final.png" alt="Landing Page M3">
 
 ### Search Page
 
